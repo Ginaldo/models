@@ -2,19 +2,19 @@
   {
     "name": "Pedro",
     "detail": "Casa reformada",
-    "percent": "15.3",
+    "percent": 15.3,
     "membersCount": 5
   },
   {
     "name": "Maria",
     "detail": "Casa em construção",
-    "percent": "44.3",
+    "percent": 44.3,
     "membersCount": 2
   },
   {
     "name": "Thiago",
     "detail": "Casa em demolição",
-    "percent": "66.2",
+    "percent": 66.2,
     "membersCount": 3
   }
 ]
