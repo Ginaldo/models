@@ -1,7 +1,7 @@
 {
     "name": "Pedro",
     "detail": "Casa reformada",
-    "percent": "15.3",
+    "percent": 15.3,
     "membersCount": 5,
     "text": "Era uma casa muito engraçada, não tinha teto, não tinha nada",
     "isOpen": true,
