@@ -1,29 +1,34 @@
 [
   {
+    "id": 1,
     "name": "Pedro",
     "detail": "Casa reformada",
     "percent": 15.3,
     "membersCount": 5
   },
   {
+    "id": 2,
     "name": "Maria",
     "detail": "Casa em construção",
     "percent": 44.3,
     "membersCount": 2
   },
   {
+    "id": 3,
     "name": "Thiago",
     "detail": "Casa em demolição",
     "percent": 66.2,
     "membersCount": 3
   },
   {
+    "id": 4,
     "name": "João",
     "detail": "Casa em observação",
     "percent": 80.2,
     "membersCount": 5
   },
   {
+    "id": 5,
     "name": "Débora",
     "detail": "Casa em moradia",
     "percent": 99.2,
