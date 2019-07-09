@@ -16,5 +16,18 @@
     "detail": "Casa em demolição",
     "percent": 66.2,
     "membersCount": 3
+  },
+  {
+    "name": "João",
+    "detail": "Casa em observação",
+    "percent": 80.2,
+    "membersCount": 5
+  },
+  {
+    "name": "Débora",
+    "detail": "Casa em moradia",
+    "percent": 99.2,
+    "membersCount": 3
   }
+
 ]
