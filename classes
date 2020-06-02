@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "iOS",
+    "type": "ONLINE"
+  },
+  {
+    "id": 2,
+    "name": "Android",
+    "membersCount": 2,
+    "type": "PRESENCIAL"
+  },
+  {
+    "id": 3,
+    "name": "Java",
+    "type": "PDF"
+  }
+]
